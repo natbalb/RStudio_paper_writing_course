@@ -1,11 +1,8 @@
-
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # An R project template to write scientific manuscripts reproducibly by integrating data, code, text and citations
 
-About the project: - this is a template repository with an R project
-that the [Jékely
-lab](https://www.cos.uni-heidelberg.de/en/research-groups/gaspar-jekely)
+About the project: - this is a template repository with an R project that the [Jékely lab](https://www.cos.uni-heidelberg.de/en/research-groups/gaspar-jekely)
 uses to start to write new research papers.
 
 Add the specific information about your paper here:
